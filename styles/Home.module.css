@@ -51,9 +51,16 @@
 }
 
 .description {
-  margin: 4rem 0;
+  margin: 2rem 0;
   line-height: 1.5;
   font-size: 1.5rem;
+}
+
+.link { 
+  text-decoration: underline;
+  margin: 1rem 0;
+  font-size: 1.5rem;
+  color: 'skyblue';
 }
 
 .code {
